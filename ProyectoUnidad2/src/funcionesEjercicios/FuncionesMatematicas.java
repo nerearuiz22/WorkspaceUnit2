@@ -326,7 +326,7 @@ public class FuncionesMatematicas {
 		 }
 		 
 		
-		 static int pegarPorDetras (int number, int n){ 
+		 static int pegarPorDelante (int number, int n){ 
 				int numDigits = countDigito (number);
 				int result = 0;
 				 
@@ -338,7 +338,12 @@ public class FuncionesMatematicas {
       
       
       
-      
+		 static int cantidadSegundos (int horas, int minutos, int segundos){ 
+			int segundos;
+			segundosEnHoras =
+			segundosEnMinutos = 
+			segundosRestantes =  
+			 }
       
       
 		 
