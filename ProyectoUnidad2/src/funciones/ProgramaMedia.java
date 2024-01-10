@@ -14,6 +14,35 @@ public class ProgramaMedia {
 	//También se puede poner Return  ((x + y)  / 2)
 	}
 
+	public static long factorial (int n) {
+		return 1;
+		
+	}
+	
+	private static int sumaNumerosEnRango (int min, int max) {
+		int resultado = 0;
+		
+		if (min%2==1)
+			min++;
+		for (int i=min; i<=max; i++) {
+			resultado+=1;
+		}
+		
+		return resultado;
+	
+	
+	
+		
+		
+		
+		
+		
+	}
+	static boolean esMayor (in a, int b) {
+		
+		return a>b? true:false;
+	}
+	
 	
 
 	public static void main(String[] args) {
