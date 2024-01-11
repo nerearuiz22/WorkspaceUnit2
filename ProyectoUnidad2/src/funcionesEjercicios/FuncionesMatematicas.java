@@ -338,13 +338,6 @@ public class FuncionesMatematicas {
       
       
       
-		 static int cantidadSegundos (int horas, int minutos, int segundos){ 
-			int segundos;
-			segundosEnHoras =
-			segundosEnMinutos = 
-			segundosRestantes =  
-			 }
-      
       
 		 
 	
